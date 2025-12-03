@@ -53,7 +53,7 @@ const Footer = () => {
               Akash
             </h4>
             <div className="text-gray-300 text-sm space-y-1 mb-6">
-              <p>Suite No.15, Ground Floor, Tower B3,</p>
+              <p>U Block Cyber City</p>
               <p>Spaze ITech Park,</p>
               <p>Sector-49, Gurgaon, Haryana - 122018</p>
             </div>
