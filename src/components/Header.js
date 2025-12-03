@@ -10,7 +10,7 @@ export default function Header() {
   const navigationLinks = [
     { name: "Dashboard", href: "/dashboard" },
     { name: "Who We Are", href: "/whowere" },
-    { name: "Work With Us", href: "/work-with-us" },
+    { name: "Work With Us", href: "/home" },
     { name: "Get in Touch", href: "/getintouch" },
   ];
 
