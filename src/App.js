@@ -42,14 +42,14 @@ const APP_ROUTES = [
   { path: "/policiepage", element: <PoliciesPage /> },
   { path: "/whowere", element: <WhoWeAre /> },
   { path: "/getintouch", element: <GetInTouch /> },
-  // { path: "/dashboard", element: <Dashboard /> },
+  { path: "/dashboard", element: <Dashboard /> },
 
   // 👉 future me koi bhi page add karna ho to bas yahan line add kar do
 ];
 
 function RootRedirect() {
   const { isAuthenticated } = useAuth();
-  return <Navigate to={isAuthenticated ? "/home" : "/login"} replace />;
+  return <Navigate to={isAuthenticated ? "/dashboard" : "/login"} replace />;
 }
 
 export default function App() {
@@ -75,7 +75,7 @@ export default function App() {
               ))}
 
               {/* Private wildcard -> agar galat URL ho to home pe bhej do */}
-              <Route path="*" element={<Navigate to="/home" replace />} />
+              <Route path="*" element={<Navigate to="/dashboard" replace />} />
             </Route>
           </Route>
 

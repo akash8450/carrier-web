@@ -8,7 +8,7 @@ export default function Header() {
   const notifRef = useRef(null);
 
   const navigationLinks = [
-    { name: "Dashboard", href: "/" },
+    { name: "Dashboard", href: "/dashboard" },
     { name: "Who We Are", href: "/whowere" },
     { name: "Work With Us", href: "/work-with-us" },
     { name: "Get in Touch", href: "/getintouch" },
