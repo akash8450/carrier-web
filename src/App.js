@@ -55,7 +55,7 @@ function RootRedirect() {
 export default function App() {
   return (
     <AuthProvider>
-      <BrowserRouter basename="/candidate-career">
+      <BrowserRouter>
         <Routes>
           {/* Root redirect (agar / open karo to auth check karega) */}
           <Route path="/" element={<RootRedirect />} />

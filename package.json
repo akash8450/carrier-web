@@ -1,7 +1,7 @@
 {
   "name": "candidate-career",
   "version": "0.1.0",
-  "homepage": "/candidate-career",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
