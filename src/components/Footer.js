@@ -16,7 +16,7 @@ const Footer = () => {
               href="#"
               className="text-blue-400 hover:text-blue-300 block mb-8"
             >
-              www.aiprus.com
+              www.Akash.com
             </a>
 
             <p className="text-gray-300 mb-4 leading-relaxed">
@@ -50,7 +50,7 @@ const Footer = () => {
           {/* Middle Column */}
           <div className="text-center lg:text-center px-6">
             <h4 className="font-semibold mb-4 text-white">
-              Aiprus Software Pvt. Ltd.
+              Akash
             </h4>
             <div className="text-gray-300 text-sm space-y-1 mb-6">
               <p>Suite No.15, Ground Floor, Tower B3,</p>

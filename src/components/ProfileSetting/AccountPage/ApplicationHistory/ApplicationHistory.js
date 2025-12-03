@@ -268,7 +268,7 @@ const DEFAULT_APPLICATIONS = [
     dateTime: "2025-08-20 | 12:30 PM",
     currentStatus: "Under Review",
     nextStep: "Awaiting Coding Test invitation",
-    company: "Aiprus Software pvt. ltd.",
+    company: "Akash",
     location: "Gurugram, Haryana",
     overallStatus: "Completed",
     latestUpdate:

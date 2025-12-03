@@ -102,7 +102,7 @@ const handleSubmit = async (e) => {
           <div className="bg-white rounded-lg shadow-xl w-full max-w-[560px] md:max-w-[600px] overflow-hidden">
             <div className="flex items-center justify-between px-5 py-3 border-b border-gray-200">
               <h2 className="text-base font-semibold text-gray-800 mx-auto text-center">
-                Apply To Aiprus Software Private Limited
+                Apply To Akash Software Private Limited
               </h2>
               <button
                 onClick={onClose}
@@ -195,7 +195,7 @@ const handleSubmit = async (e) => {
                 <div className="pt-1">
                   <p className="text-xs text-gray-600 leading-relaxed">
                     You’re applying for <span className="font-semibold">{job?.title || "Senior Java developer"}</span>{" "}
-                    at <span className="font-semibold">Aiprus Software</span>
+                    at <span className="font-semibold">Akash Software</span>
                     {job?.department && (
                       <>
                         {" "}

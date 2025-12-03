@@ -105,7 +105,7 @@ const GetInTouch = () => {
                 </div>
                 <div className="flex items-center">
                   <img src="/material-symbols-light_mail.png" className="w-5 h-5 mr-3" />
-                  <span style={{ color: "#666666" }}>sales@aiprus.com</span>
+                  <span style={{ color: "#666666" }}>sales@Akash.com</span>
                 </div>
                 <div className="flex items-start">
                   <img src="/ion_location-sharp.png" className="w-5 h-8 mr-3" />
@@ -257,7 +257,7 @@ const GetInTouch = () => {
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Aiprus Office Location"
+            title="Akash Office Location"
           ></iframe>
         </div>
       </section>

@@ -12,7 +12,7 @@ const WhoWeAre = () => {
                 with Smarter Solutions
               </h1>
               <p className="text-base sm:text-lg mb-8" style={{ color: "#1F712F" }}>
-                Aiprus Software delivers cutting-edge IT expertise and AI-powered solutions to transform your business
+                Akash Software delivers cutting-edge IT expertise and AI-powered solutions to transform your business
                 operations and drive sustainable growth.
               </p>
             </div>
@@ -22,7 +22,7 @@ const WhoWeAre = () => {
           {/* Blue geometric illustration */}
           <img
             src="/Group 2015.png"
-            alt="Aiprus geometric illustration"
+            alt="Akash geometric illustration"
             className="
               absolute bottom-0 right-0 sm:right-4 lg:right-8 pointer-events-none
               object-contain
@@ -44,7 +44,7 @@ const WhoWeAre = () => {
             </h2>
             <div className="max-w-4xl mx-auto">
               <p className="text-base sm:text-lg mb-6" style={{ color: "#666666" }}>
-                Aiprus Software Pvt. Ltd. is a dynamic tech startup dedicated to delivering comprehensive Information
+                Akash is a dynamic tech startup dedicated to delivering comprehensive Information
                 Technology and Software Engineering solutions. Our expertise spans a wide array of products, tools, and
                 cutting-edge technologies. We specialize in providing tailored IT services and turnkey SaaS digital
                 solutions, empowering businesses with innovative and scalable technology solutions.
@@ -145,12 +145,12 @@ const WhoWeAre = () => {
         </div>
       </section>
 
-      {/* Why Choose Aiprus Section */}
+      {/* Why Choose Akash Section */}
       <section className="py-16 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-4" style={{ color: "#1C1C1C" }}>
-              Why Choose Aiprus?
+              Why Choose Akash?
             </h2>
           </div>
 
@@ -249,7 +249,7 @@ const WhoWeAre = () => {
       <section className="py-16 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url('/Frame 275.png')" }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-white mb-16">
-            Ready to Transform Your Business with Aiprus Software?
+            Ready to Transform Your Business with Akash Software?
           </h2>
           <p className="text-base sm:text-lg text-white mb-16 max-w-2xl mx-auto">
             Let's discuss how our innovative solutions can drive your business forward.

@@ -27,16 +27,16 @@ const JobDetails = ({ job, onBack }) => {
                 <span className="text-sm sm:text-base font-medium">Back</span>
               </button>
 
-              <img src={job.companyLogo || "/aiprus.png"} alt={job.company || "Company"} className="h-5 sm:h-6 w-auto" />
+              <img src={job.companyLogo || "/Akash.png"} alt={job.company || "Company"} className="h-5 sm:h-6 w-auto" />
 
               <span className="hidden md:inline text-[#1C1C1C] font-semibold text-base truncate max-w-[40vw]">
-                {job.company || "Aiprus Software Private Limited"}
+                {job.company || "Akash Software Private Limited"}
               </span>
             </div>
 
             <div className="order-2 md:hidden">
               <span className="block text-[#1C1C1C] font-semibold text-sm break-words">
-                {job.company || "Aiprus Software Private Limited"}
+                {job.company || "Akash Software Private Limited"}
               </span>
             </div>
 
