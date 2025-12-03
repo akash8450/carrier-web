@@ -32,7 +32,7 @@ export default function Signup() {
       {/* Left: Image */}
       <div className="hidden md:flex md:w-1/2 bg-black items-center justify-center overflow-hidden">
         <img
-          src="/candidate-career/LoginSignupImg/Signup.png"
+          src="/LoginSignupImg/Signup.png"
           alt="Signup Illustration"
           className="h-full w-full object-cover"
         />

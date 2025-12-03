@@ -37,7 +37,7 @@ export default function ResetPassword() {
         {/* LEFT: Illustration (hidden on small) */}
         <div className="hidden lg:flex lg:w-1/2 bg-black items-center justify-center">
           <img
-            src="/candidate-career/LoginSignupImg/Login.svg" // ← तुम्हारा ही path
+            src="/LoginSignupImg/Login.svg" // ← तुम्हारा ही path
             alt="Reset"
             className="h-full w-full object-cover"
             draggable={false}
@@ -132,7 +132,7 @@ export default function ResetPassword() {
 
             <div className="flex flex-col items-center text-center">
               <img
-                src="/candidate-career/Reset.svg" // ← तुम्हारा ही path
+                src="/Reset.svg" // ← तुम्हारा ही path
                 alt="Success"
                 className="w-24 h-24 md:w-28 md:h-28 object-contain"
               />

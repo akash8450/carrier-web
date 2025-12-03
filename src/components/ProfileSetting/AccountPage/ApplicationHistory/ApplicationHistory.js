@@ -35,7 +35,7 @@ export default function ApplicationHistory({
               onClick={() => window.history.back()}>
               {/* Back.svg from public */}
               <img
-                src="/candidate-career/Back.svg"
+                src="/Back.svg"
                 alt="Back"
                 className="w-2 h-2 sm:w-5 sm:h-5 object-contain"
               />

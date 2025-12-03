@@ -116,7 +116,7 @@ const handleSubmit = async (e) => {
             <div className="px-5 py-5">
               <div className="flex items-center mb-4">
                 <div className="w-14 h-14 bg-gray-300 rounded-full overflow-hidden mr-3">
-                  <img src="//candidate-career/professional-headshot.png" alt="Profile" className="w-full h-full object-cover" />
+                  <img src="//professional-headshot.png" alt="Profile" className="w-full h-full object-cover" />
                 </div>
                 <div className="space-y-0.5">
                   <h3 className="text-base font-semibold text-gray-800 leading-tight">Abhishek Singh</h3>
@@ -176,7 +176,7 @@ const handleSubmit = async (e) => {
                     onClick={() => document.getElementById("resume-upload").click()}
                   >
                     <div className="w-7 h-7 bg-[#1F712F] rounded-full flex items-center justify-center mb-1.5">
-                      <img src="./candidate-career/upload.png" alt="" className="w-8 h-8" />
+                      <img src="./upload.png" alt="" className="w-8 h-8" />
                     </div>
                     <p className="text-xs text-gray-600 text-center px-3">
                       {resume ? resume.name : "Drag & drop or click to upload (.pdf, .doc, .docx)"}

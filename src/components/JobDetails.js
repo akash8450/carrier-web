@@ -27,7 +27,7 @@ const JobDetails = ({ job, onBack }) => {
                 <span className="text-sm sm:text-base font-medium">Back</span>
               </button>
 
-              <img src={job.companyLogo || "/candidate-career/aiprus.png"} alt={job.company || "Company"} className="h-5 sm:h-6 w-auto" />
+              <img src={job.companyLogo || "/aiprus.png"} alt={job.company || "Company"} className="h-5 sm:h-6 w-auto" />
 
               <span className="hidden md:inline text-[#1C1C1C] font-semibold text-base truncate max-w-[40vw]">
                 {job.company || "Aiprus Software Private Limited"}
@@ -42,7 +42,7 @@ const JobDetails = ({ job, onBack }) => {
 
             <div className="order-3 md:order-1 flex items-center gap-2 sm:gap-3 flex-wrap md:flex-nowrap">
               <button className="px-4 py-2 border border-[#1F712F] text-[#1F712F] hover:bg-gray-50 rounded-md text-sm flex items-center">
-                <img src="./candidate-career/sharebutton.png" className="w-4 h-4 mr-2" />
+                <img src="./sharebutton.png" className="w-4 h-4 mr-2" />
                 Share
               </button>
 
@@ -50,7 +50,7 @@ const JobDetails = ({ job, onBack }) => {
                 onClick={handleApplyClick}
                 className="px-4 py-2 bg-[#1F712F] hover:bg-green-700 text-white rounded-md text-sm flex items-center"
               >
-                <img src="./candidate-career/applybutton.png" className="w-4 h-4 mr-2" />
+                <img src="./applybutton.png" className="w-4 h-4 mr-2" />
                 Apply
               </button>
             </div>

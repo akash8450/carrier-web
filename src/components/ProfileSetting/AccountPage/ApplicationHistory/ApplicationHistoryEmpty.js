@@ -46,7 +46,7 @@ export default function ApplicationHistoryEmpty() {
               <div className="w-full max-w-[520px] mx-auto flex flex-col items-center gap-4">
                 <div className="w-[160px] sm:w-[190px] md:w-[220px]">
                   <img
-                    src="/candidate-career/objects.svg"
+                    src="/objects.svg"
                     alt="No Applications"
                     className="w-full h-auto object-contain"
                   />

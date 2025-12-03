@@ -107,7 +107,7 @@ const HomePage = () => {
     {
       icon: (
         <img
-          src="/candidate-career/carrier-growth.png" // 👈 place this in public/icons
+          src="/carrier-growth.png" // 👈 place this in public/icons
           alt="Career Growth"
           className="w-8 h-8"
         />
@@ -116,17 +116,17 @@ const HomePage = () => {
       description: "Continuous learning opportunities and clear advancement paths",
     },
     {
-      icon: <img src="/candidate-career/global-impact.png" alt="Global Impact" className="w-8 h-8" />,
+      icon: <img src="/global-impact.png" alt="Global Impact" className="w-8 h-8" />,
       title: "Global Impact",
       description: "Work on projects that reach millions of users worldwide",
     },
     {
-      icon: <img src="/candidate-career/heart.png" alt="Work-Life Balance" className="w-8 h-8" />,
+      icon: <img src="/heart.png" alt="Work-Life Balance" className="w-8 h-8" />,
       title: "Work-Life Balance",
       description: "Flexible schedules, remote work options, and comprehensive benefits",
     },
     {
-      icon: <img src="/candidate-career/humbleicons_certificate.png" alt="Recognition" className="w-8 h-8" />,
+      icon: <img src="/humbleicons_certificate.png" alt="Recognition" className="w-8 h-8" />,
       title: "Recognition",
       description: "Performance-based bonuses and employee recognition programs",
     },
@@ -149,16 +149,16 @@ const HomePage = () => {
           <h3 className="text-lg font-semibold text-gray-900 mb-2">{job.title}</h3>
           <div className="flex items-center text-sm text-gray-600 space-x-4 mb-2">
             <span className="flex items-center">
-              <img src="/candidate-career/department.png" alt="Department Icon" className="w-4 h-4 mr-1" />
+              <img src="/department.png" alt="Department Icon" className="w-4 h-4 mr-1" />
               {job.department}
             </span>
             <span className="flex items-center">
-              <img src="/candidate-career/lsicon_location-filled.png" alt="Department Icon" className="w-4 h-4 mr-1" />
+              <img src="/lsicon_location-filled.png" alt="Department Icon" className="w-4 h-4 mr-1" />
               {job.location}
             </span>
           </div>
           <div className="flex items-center text-sm text-gray-500">
-            <img src="/candidate-career/date.png" alt="Department Icon" className="w-4 h-4 mr-1" />
+            <img src="/date.png" alt="Department Icon" className="w-4 h-4 mr-1" />
             {job.date}
           </div>
         </div>
@@ -219,7 +219,7 @@ const HomePage = () => {
         <div className="relative mx-auto mt-8 max-w-sm w-full 
                 lg:absolute lg:bottom-0 lg:left-[70%] lg:-translate-x-1/2 lg:max-w-md lg:w-auto lg:mx-0 lg:mt-0">
   <img
-    src="/candidate-career/Layer_1 (2).png"
+    src="/Layer_1 (2).png"
     alt="Team celebration illustration"
     className="w-full h-auto object-contain lg:scale-150"
   />

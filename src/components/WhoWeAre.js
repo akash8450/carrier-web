@@ -21,7 +21,7 @@ const WhoWeAre = () => {
 
           {/* Blue geometric illustration */}
           <img
-            src="/candidate-career/Group 2015.png"
+            src="/Group 2015.png"
             alt="Aiprus geometric illustration"
             className="
               absolute bottom-0 right-0 sm:right-4 lg:right-8 pointer-events-none
@@ -74,7 +74,7 @@ const WhoWeAre = () => {
             <div className="text-center p-4 sm:p-6 bg-white border border-gray-200 rounded-lg">
               <div className="w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24 mx-auto mb-4 sm:mb-6">
                 <img
-                  src="/candidate-career/Frame 427321020.png"
+                  src="/Frame 427321020.png"
                   alt="Innovation icon"
                   className="w-full h-full object-contain"
                   draggable="false"
@@ -92,7 +92,7 @@ const WhoWeAre = () => {
             <div className="text-center p-4 sm:p-6 bg-white border border-gray-200 rounded-lg">
               <div className="w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24 mx-auto mb-4 sm:mb-6">
                 <img
-                  src="/candidate-career/Frame 427321020 (1).png"
+                  src="/Frame 427321020 (1).png"
                   alt="Collaboration icon"
                   className="w-full h-full object-contain"
                   draggable="false"
@@ -110,7 +110,7 @@ const WhoWeAre = () => {
             <div className="text-center p-4 sm:p-6 bg-white border border-gray-200 rounded-lg">
               <div className="w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24 mx-auto mb-4 sm:mb-6">
                 <img
-                  src="/candidate-career/Frame 427321020 (2).png"
+                  src="/Frame 427321020 (2).png"
                   alt="Excellence icon"
                   className="w-full h-full object-contain"
                   draggable="false"
@@ -128,7 +128,7 @@ const WhoWeAre = () => {
             <div className="text-center p-4 sm:p-6 bg-white border border-gray-200 rounded-lg">
               <div className="w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24 mx-auto mb-4 sm:mb-6">
                 <img
-                  src="/candidate-career/Frame 427321020 (3).png"
+                  src="/Frame 427321020 (3).png"
                   alt="Integrity icon"
                   className="w-full h-full object-contain"
                   draggable="false"
@@ -162,7 +162,7 @@ const WhoWeAre = () => {
                 style={{ backgroundColor: "#1F712F" }}
               >
                 <img
-                  src="/candidate-career/material-symbols-light_electric-bolt-rounded.png"
+                  src="/material-symbols-light_electric-bolt-rounded.png"
                   alt="Lightning bolt icon"
                   className="w-6 h-6 sm:w-8 sm:h-8"
                   draggable="false"
@@ -185,7 +185,7 @@ const WhoWeAre = () => {
                 style={{ backgroundColor: "#1F712F" }}
               >
                 <img
-                  src="/candidate-career/hugeicons_ai-brain-02.png"
+                  src="/hugeicons_ai-brain-02.png"
                   alt="AI brain icon"
                   className="w-6 h-6 sm:w-8 sm:h-8"
                   draggable="false"
@@ -207,7 +207,7 @@ const WhoWeAre = () => {
                 className="w-12 h-12 sm:w-16 sm:h-16 rounded-lg flex items-center justify-center flex-shrink-0"
                 style={{ backgroundColor: "#1F712F" }}
               >
-                <img src="/candidate-career/mynaui_heart.png" alt="Heart icon" className="w-6 h-6 sm:w-8 sm:h-8" draggable="false" />
+                <img src="/mynaui_heart.png" alt="Heart icon" className="w-6 h-6 sm:w-8 sm:h-8" draggable="false" />
               </div>
               <div>
                 <h3 className="text-lg sm:text-xl font-semibold mb-2 sm:mb-3" style={{ color: "#1C1C1C" }}>
@@ -226,7 +226,7 @@ const WhoWeAre = () => {
                 style={{ backgroundColor: "#1F712F" }}
               >
                 <img
-                  src="/candidate-career/lets-icons_check-ring-round.png"
+                  src="/lets-icons_check-ring-round.png"
                   alt="Checkmark icon"
                   className="w-6 h-6 sm:w-8 sm:h-8"
                   draggable="false"
@@ -246,7 +246,7 @@ const WhoWeAre = () => {
       </section>
 
       {/* CTA Section */}
-      <section className="py-16 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url('/candidate-career/Frame 275.png')" }}>
+      <section className="py-16 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url('/Frame 275.png')" }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-white mb-16">
             Ready to Transform Your Business with Aiprus Software?

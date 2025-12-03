@@ -48,7 +48,7 @@ export default function ExamHistoryEmpty() {
                 {/* Illustration */}
                 <div className="w-[160px] sm:w-[190px] md:w-[220px]">
                   <img
-                    src="/candidate-career/objects.svg"
+                    src="/objects.svg"
                     alt="No Exam History Illustration"
                     className="w-full h-auto object-contain"
                   />

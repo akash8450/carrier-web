@@ -105,7 +105,7 @@ export default function Header() {
                 title="Notifications">
                 {/* Only the icon's built-in red dot remains */}
                 <img
-                  src="/candidate-career/notification.svg"
+                  src="/notification.svg"
                   alt="Notifications"
                   className="h-6 w-6"
                 />
@@ -116,7 +116,7 @@ export default function Header() {
                 <div className="absolute right-0 mt-2 w-[28rem] max-w-[90vw] bg-white border border-gray-200 rounded-lg shadow-lg overflow-hidden z-50">
                   <div className="flex items-center gap-2 px-4 py-3 border-b">
                     <img
-                      src="/candidate-career/Vector (6).svg"
+                      src="/Vector (6).svg"
                       alt="notif"
                       className="w-5 h-5"
                     />
@@ -149,7 +149,7 @@ export default function Header() {
                           <p className="text-sm text-gray-600">{n.desc}</p>
                           <div className="flex items-center gap-1 text-xs text-gray-500 mt-2">
                             <img
-                              src="/candidate-career/Vector (6).svg"
+                              src="/Vector (6).svg"
                               alt="calendar"
                               className="w-4 h-4 shrink-0"
                             />
@@ -183,7 +183,7 @@ export default function Header() {
               title="Logout">
               Logout
               <img
-                src="/candidate-career/LogoutIcon.svg"
+                src="/LogoutIcon.svg"
                 alt="Logout Icon"
                 className="h-5 w-5"
               />

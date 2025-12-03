@@ -20,7 +20,7 @@ export default function NotificationsPage() {
               onClick={() => window.history.back()}
               className="inline-flex items-center gap-1.5 h-[21px] text-[#666] hover:opacity-80">
               <img
-                src="/candidate-career/Back.svg"
+                src="/Back.svg"
                 alt="Back"
                 className="w-4 h-4 object-contain"
               />

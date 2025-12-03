@@ -47,7 +47,7 @@ const GetInTouch = () => {
 
         <div className="absolute bottom-0 right-0 sm:right-4 lg:right-8 pointer-events-none">
           <img
-            src="/candidate-career/get-newsletter-updates.png"
+            src="/get-newsletter-updates.png"
             alt="Team celebration illustration"
             className="
               object-contain
@@ -100,15 +100,15 @@ const GetInTouch = () => {
               {/* Contact Details */}
               <div className="space-y-4 mb-12">
                 <div className="flex items-center">
-                  <img src="/candidate-career/fe_phone.png" className="h-5 w-5 mr-3" />
+                  <img src="/fe_phone.png" className="h-5 w-5 mr-3" />
                   <span style={{ color: "#666666" }}>+91 9876 7889 88</span>
                 </div>
                 <div className="flex items-center">
-                  <img src="/candidate-career/material-symbols-light_mail.png" className="w-5 h-5 mr-3" />
+                  <img src="/material-symbols-light_mail.png" className="w-5 h-5 mr-3" />
                   <span style={{ color: "#666666" }}>sales@aiprus.com</span>
                 </div>
                 <div className="flex items-start">
-                  <img src="/candidate-career/ion_location-sharp.png" className="w-5 h-8 mr-3" />
+                  <img src="/ion_location-sharp.png" className="w-5 h-8 mr-3" />
                   <div style={{ color: "#666666" }}>
                     <p>Spaze IT Park, Sohna Road,</p>
                     <p>Sector - 49, Gurugram</p>
@@ -263,7 +263,7 @@ const GetInTouch = () => {
       </section>
 
       {/* Connect Section */}
-      <section className="py-16 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url('/candidate-career/Frame 275.png')" }}>
+      <section className="py-16 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url('/Frame 275.png')" }}>
         <div className="max-w-4xl mx-auto text-center px-4">
           <h2 className="text-3xl font-bold text-white mb-4">Connect with Us</h2>
           <p className="text-green-100 mb-8">
@@ -280,7 +280,7 @@ const GetInTouch = () => {
               className="inline-flex items-center justify-center transition-transform duration-200 hover:scale-110 active:scale-95 focus:outline-none focus:ring-2 focus:ring-white/60 rounded-xl"
             >
               <img
-                src="/candidate-career/Frame 427321000.png"
+                src="/Frame 427321000.png"
                 alt="Instagram"
                 className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 object-contain select-none"
                 loading="lazy"
@@ -294,7 +294,7 @@ const GetInTouch = () => {
               className="inline-flex items-center justify-center transition-transform duration-200 hover:scale-110 active:scale-95 focus:outline-none focus:ring-2 focus:ring-white/60 rounded-xl"
             >
               <img
-                src="/candidate-career/Frame 427320998.png"
+                src="/Frame 427320998.png"
                 alt="LinkedIn"
                 className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 object-contain select-none"
                 loading="lazy"
@@ -308,7 +308,7 @@ const GetInTouch = () => {
               className="inline-flex items-center justify-center transition-transform duration-200 hover:scale-110 active:scale-95 focus:outline-none focus:ring-2 focus:ring-white/60 rounded-xl"
             >
               <img
-                src="/candidate-career/Frame 427320999.png"
+                src="/Frame 427320999.png"
                 alt="X (Twitter)"
                 className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 object-contain select-none"
                 loading="lazy"
@@ -322,7 +322,7 @@ const GetInTouch = () => {
               className="inline-flex items-center justify-center transition-transform duration-200 hover:scale-110 active:scale-95 focus:outline-none focus:ring-2 focus:ring-white/60 rounded-xl"
             >
               <img
-                src="/candidate-career/Frame 427320997.png"
+                src="/Frame 427320997.png"
                 alt="Facebook"
                 className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 object-contain select-none"
                 loading="lazy"
@@ -334,7 +334,7 @@ const GetInTouch = () => {
           <div className="text-center text-green-100 space-y-3">
             <div className="flex items-center justify-center gap-2">
               <img
-                src="/candidate-career/si_phone-fill.png"
+                src="/si_phone-fill.png"
                 alt="Phone"
                 className="w-5 h-5 md:w-6 md:h-6 object-contain"
                 loading="lazy"

@@ -133,7 +133,7 @@ export default function ProfilePage({ initialTab = "About Me" }) {
               onClick={() => window.history.back()}
               className="inline-flex items-center gap-[6px] h-[21px] w-fit hover:opacity-80 ml-0 ">
               <img
-                src="/candidate-career/back.svg" // place back.svg at public/icons/back.svg
+                src="/back.svg" // place back.svg at public/icons/back.svg
                 alt="Back"
                 className="w-4 h-4"
               />

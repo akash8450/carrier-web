@@ -65,7 +65,7 @@ const Footer = () => {
             </div>
             <div className="flex justify-center items-center gap-2 mt-8">
               <img
-                src="/candidate-career/Skills (1).png"
+                src="/Skills (1).png"
                 alt="Skill Assignment"
                 className="w-6 h-6 object-contain"
               />
@@ -86,20 +86,20 @@ const Footer = () => {
             <div className="mt-8 flex justify-center lg:justify-start gap-4">
               <a href="#" className="hover:opacity-80">
                 <img
-                  src="/candidate-career/prime_twitter (1).png"
+                  src="/prime_twitter (1).png"
                   alt="X / Twitter"
                   className="w-6 h-6"
                 />
               </a>
               <a href="#" className="hover:opacity-80">
-                <img src="/candidate-career/Group 87.svg" alt="LinkedIn" className="w-6 h-6" />
+                <img src="/Group 87.svg" alt="LinkedIn" className="w-6 h-6" />
               </a>
               <a href="#" className="hover:opacity-80">
-                <img src="/candidate-career/Group 85.svg" alt="Facebook" className="w-6 h-6" />
+                <img src="/Group 85.svg" alt="Facebook" className="w-6 h-6" />
               </a>
               <a href="#" className="hover:opacity-80">
                 <img
-                  src="/candidate-career/Group 88.svg"
+                  src="/Group 88.svg"
                   alt="Twitter"
                   className="w-6 h-6 object-contain"
                 />

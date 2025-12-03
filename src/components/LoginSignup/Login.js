@@ -105,7 +105,7 @@ export default function Login() {
       {/* RIGHT: image (unchanged) */}
       <div className="hidden lg:flex w-1/2 bg-black items-center justify-center overflow-hidden">
         <img
-          src="/candidate-career/LoginSignupImg/Login.svg"
+          src="/LoginSignupImg/Login.svg"
           alt="Login Illustration"
           className="h-full w-full object-cover"
         />

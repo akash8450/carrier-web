@@ -85,7 +85,7 @@ export default function ProfileSection({
               <div className="relative">
                 {/* Avatar */}
                 <img
-                  src="/candidate-career/Star 1.jpg"
+                  src="/Star 1.jpg"
                   alt="Profile"
                   onError={(e) => {
                     e.currentTarget.src =

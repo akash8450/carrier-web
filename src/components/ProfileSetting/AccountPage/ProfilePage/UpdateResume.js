@@ -39,7 +39,7 @@ export default function UpdateResume() {
         <div className="px-4 md:px-6 py-6 text-center">
           {/* Simple upload icon */}
           <img
-            src="/candidate-career/upload.svg"
+            src="/upload.svg"
             alt="Upload Icon"
             className="mx-auto w-12 h-12"
           />

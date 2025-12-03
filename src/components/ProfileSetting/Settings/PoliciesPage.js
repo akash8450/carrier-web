@@ -19,7 +19,7 @@ export default function PoliciesPage() {
               onClick={() => window.history.back()}
               className="inline-flex items-center gap-1.5 h-[21px] text-[#666] hover:opacity-80">
               <img
-                src="/candidate-career/Back.svg"
+                src="/Back.svg"
                 alt="Back"
                 className="w-4 h-4 sm:w-5 sm:h-5 object-contain"
               />
@@ -171,7 +171,7 @@ function Accordion({ icon, title, rightText, open, setOpen, children }) {
             </span>
           )}
           <img
-            src="/candidate-career/Dropdown.svg"
+            src="/Dropdown.svg"
             alt="toggle"
             className={`w-5 h-5 sm:w-6 sm:h-6 transition-transform ${
               open ? "rotate-180" : ""

@@ -67,7 +67,7 @@ export default function Dashboard() {
 
         {/* Hero Illustration - positioned absolutely like other pages */}
         <img
-          src="/candidate-career/dashboardbackground.png"
+          src="/dashboardbackground.png"
           alt="Business professionals with spotlight illustration"
           className="absolute bottom-0 left-1/2 lg:left-[70%] -translate-x-1/2 max-w-md w-full sm:w-auto object-contain lg:scale-150"
           draggable="false"
@@ -80,7 +80,7 @@ export default function Dashboard() {
       {/*skill sec  */}
       {/* Skill Assessments Section */}
 <section className="relative py-16 lg:py-24 lg:h-[600px]"> 
-  <img src="/candidate-career/skill.svg" alt="" aria-hidden="true" className="absolute inset-0 h-full w-full object-cover" /> 
+  <img src="/skill.svg" alt="" aria-hidden="true" className="absolute inset-0 h-full w-full object-cover" /> 
   <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
      <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-8 mt-28"> Skill Assessments – <br /> Built to Empower Your Journey </h2>
       <p className="text-base sm:text-lg lg:text-xl text-white max-w-4xl mx-auto leading-relaxed"> Resumes tell a story, but skills prove it. Our Skill Assessments are built to showcase your strengths, validate your expertise, and give recruiters real reasons to trust you. Every test you take moves you closer to the right opportunity — because your talent deserves to be seen, recognized, and rewarded. </p> 
@@ -110,7 +110,7 @@ export default function Dashboard() {
 
             {/* Right Image */}
             <div className="flex-[1.2] flex justify-center">
-              <img src="/candidate-career/Group2.png" alt="Assessment interface" className="w-full h-auto" draggable="false" />
+              <img src="/Group2.png" alt="Assessment interface" className="w-full h-auto" draggable="false" />
             </div>
           </div>
 
@@ -118,7 +118,7 @@ export default function Dashboard() {
           <div className="flex flex-col lg:flex-row items-center justify-between gap-16 lg:mt-[-500px]">
             {/* Left Image → aligned with first content start */}
             <div className="flex-[1.2] flex justify-start lg:-ml-28">
-              <img src="/candidate-career/Group2021.png" alt="Assessment interface" className="w-full h-auto" draggable="false" />
+              <img src="/Group2021.png" alt="Assessment interface" className="w-full h-auto" draggable="false" />
             </div>
 
             {/* Right Text */}
@@ -155,7 +155,7 @@ export default function Dashboard() {
 
             {/* Right Image */}
             <div className="flex-[1.2] flex justify-center">
-              <img src="/candidate-career/Group3.png" alt="Assessment interface" className="w-full h-auto" draggable="false" />
+              <img src="/Group3.png" alt="Assessment interface" className="w-full h-auto" draggable="false" />
             </div>
           </div>
         </div>
@@ -165,7 +165,7 @@ export default function Dashboard() {
       <section className="relative py-16 lg:py-24 lg:mt-[-80px]">
         {/* Background */}
         <img
-          src="/candidate-career/Frame 427321373 (2).png"
+          src="/Frame 427321373 (2).png"
           alt="Job openings background"
           className="absolute inset-0 w-full h-full object-cover"
         />
@@ -207,18 +207,18 @@ export default function Dashboard() {
                     {/* Department & Location */}
                     <div className="flex items-center text-sm text-gray-200 space-x-4 mb-2">
                       <span className="flex items-center">
-                        <img src="/candidate-career/department.png" alt="Department Icon" className="w-4 h-4 mr-1" />
+                        <img src="/department.png" alt="Department Icon" className="w-4 h-4 mr-1" />
                         {job.department}
                       </span>
                       <span className="flex items-center">
-                        <img src="/candidate-career/lsicon_location-filled.png" alt="Location Icon" className="w-4 h-4 mr-1" />
+                        <img src="/lsicon_location-filled.png" alt="Location Icon" className="w-4 h-4 mr-1" />
                         {job.location}
                       </span>
                     </div>
 
                     {/* Date */}
                     <div className="flex items-center text-sm text-gray-400">
-                      <img src="/candidate-career/date.png" alt="Date Icon" className="w-4 h-4 mr-1" />
+                      <img src="/date.png" alt="Date Icon" className="w-4 h-4 mr-1" />
                       {job.date}
                     </div>
 
@@ -268,7 +268,7 @@ export default function Dashboard() {
             {/* Right collage image */}
             <div className="flex justify-center md:justify-end">
               <img
-                src="/candidate-career/Group 2018 (1).png"
+                src="/Group 2018 (1).png"
                 alt="Community of successful candidates"
                 className="w-full max-w-[680px] sm:max-w-[760px] md:max-w-[820px] lg:max-w-[880px] h-auto"
                 draggable="false"
@@ -280,7 +280,7 @@ export default function Dashboard() {
     <section className="relative py-6 sm:py-8 lg:py-10">
   {/* Background */}
   <img
-    src="/candidate-career/Frame 275.png"
+    src="/Frame 275.png"
     alt="Start career background"
     className="absolute inset-0 w-full h-full object-cover"
   />
@@ -289,7 +289,7 @@ export default function Dashboard() {
     {/* Rocket Icon */}
     <div className="mb-4 flex justify-center">
       <img
-        src="/candidate-career/Frame 427321280 (2).svg"
+        src="/Frame 427321280 (2).svg"
         alt="Rocket Icon"
         className="h-20 w-20 object-contain"
       />
@@ -315,7 +315,7 @@ export default function Dashboard() {
     {/* Free text with card icon */}
    <div className="flex items-center justify-center text-sm sm:text-base text-white/80 mb-4">
   <img 
-    src="/candidate-career/credit-card (1).svg" 
+    src="/credit-card (1).svg" 
     alt="Credit Card" 
     className="w-10 h-10 mr-5 object-contain" 
   />
@@ -328,7 +328,7 @@ export default function Dashboard() {
       <div className="text-center">
         <div className="mb-2 flex justify-center">
           <img
-            src="/candidate-career/Frame 427321280 (3).svg"
+            src="/Frame 427321280 (3).svg"
             alt="Smart Matching"
             className="h-14 w-14 object-contain"
           />
@@ -341,7 +341,7 @@ export default function Dashboard() {
       <div className="text-center">
         <div className="mb-2 flex justify-center">
           <img
-            src="/candidate-career/Frame 427321280 (4).svg"
+            src="/Frame 427321280 (4).svg"
             alt="Skill Validation"
             className="h-14 w-14 object-contain"
           />
@@ -354,7 +354,7 @@ export default function Dashboard() {
       <div className="text-center">
         <div className="mb-2 flex justify-center">
           <img
-            src="/candidate-career/Frame 427321280 (5).svg"
+            src="/Frame 427321280 (5).svg"
             alt="Career Growth"
             className="h-14 w-14 object-contain"
           />
